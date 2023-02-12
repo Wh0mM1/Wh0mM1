@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on App Development<br>👯 I’m looking to collaborate on projects based on Flutter<br>🤝 I’m looking for help with Flutter<br>🌱 I’m currently learning Android N<br>💬 Ask me about App dev<br>⚡ What doesn't kill you will make you stronger and coding definitely will not kill you!
+🔭 I’m currently working on App Development and learning DSA<br>👯 I’m looking to collaborate on projects based on Flutter<br>🤝 I’m looking for help with Flutter<br>🌱 I’m currently learning Android N<br>💬 Ask me about App dev<br>⚡ What doesn't kill you will make you stronger and coding definitely will not kill you!
 
 
 ## 🌐 Socials:
