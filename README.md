@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nihal</h1>
 <h3 align="center">Upcoming Mobile App Developer From India..</h3>
-# 💫 About Me:
+💫 About Me: <br>
 🔭 I’m currently working on App Development<br>👯 I’m looking to collaborate on projects based on Flutter<br>🌱 I’m currently learning DSA and Android N<br>💬 Ask me about App dev<br>⚡ What doesn't kill you will make you stronger and coding definitely will not kill you! <br>📫 How to reach me **shaikhnihal92@gmail.com** <br>📄 Know about my experiences [https://drive.google.com/file/d/1AevaLkHV_TGTG_Bm-2sIZP9Rm77qIZSF/view?usp=sharing](https://drive.google.com/file/d/1AevaLkHV_TGTG_Bm-2sIZP9Rm77qIZSF/view?usp=sharing)
 
 
