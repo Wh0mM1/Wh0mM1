@@ -16,7 +16,7 @@
 <a href="https://www.instagram.com/2.gud.wh0mm1_xo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="2.gud.wh0mm1_xo" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
 </div>
 
-
+<br>
 <h1 align="center">📊 GitHub Stats</h1>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Wh0mM1&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" width="450"><br>
