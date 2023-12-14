@@ -1,20 +1,16 @@
 <h1 align="center">Hi 👋, I'm Nihal</h1>
 <h3 align="center">Upcoming Software Developer From India..</h3>
 💫 About Me: <br>
-🔭 I’m currently working on App Development<br>👯 I’m looking to collaborate on projects based on Spring Boot<br>🌱 I’m currently learning DSA and Microservices<br>⚡ What doesn't kill you will make you stronger and coding definitely will not kill you! <br>📫 How to reach me **shaikhnihal92@gmail.com** <br>
-
-<h3 >Languages and Tools:</h3>
+🔭 I’m currently working on Backend Development<br>👯 I’m looking to collaborate on projects based on Spring Boot<br>🌱 I’m currently learning DSA and Microservices<br>⚡ What doesn't kill you will make you stronger and coding definitely will not kill you! <br>📫 How to reach me **shaikhnihal92@gmail.com** <br>
 
 
+<div align="center">
+<h1 align="center"><img width="30" alt="Screenshot 2023-12-14 at 4 46 31 PM" src="https://github.com/Wh0mM1/Wh0mM1/assets/90375499/3c6cf8a7-e3c7-4b7d-940b-cf3747985b6c">
+ Languages and Tools:</h1>
 
-[![My Skills](https://skillicons.dev/icons?i=spring,java,docker,kubernetes,golang,kafka,html,css,js,react,arduino,bash,bootstrap,c,cpp,cmake,d3,express,figma,git,github,heroku,jquery,materialui,mongodb,mysql,nextjs,nodejs,py,redis,redux,ts&perline=7)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=spring,java,docker,kubernetes,jenkins,aws,gcp,firebase,flutter,html,css,js,react,arduino,bootstrap,c,cpp,dart,postman,express,figma,git,github,jquery,postgresql,mongodb,mysql,py,redis,ts&perline=6)](https://skillicons.dev)
+</div>
 
-
-<h1 align="center">💻 Tech Stack:</h1>
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-
-<br>
 <h1 align="center">🌐 Socials</h1>
 <div align="center">
 <a href="https://auth.geeksforgeeks.org/user/shaikhnihal92/practice" target="blank"><img align="center" src="https://user-images.githubusercontent.com/17960677/100546521-d3c7ea00-3287-11eb-9a5f-c4887c8c3ccf.png" alt="shaikhnihal92" height="30" width="30" /></a>
