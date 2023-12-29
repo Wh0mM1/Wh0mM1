@@ -39,7 +39,7 @@
 <img src="https://github-profile-trophy.vercel.app/?username=Wh0mM1&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" width="500"><br>
 </div>
 
-<h1 align="center">✍️ Random Dev Quote</h1>
+<h1 align="center">✍️ Dev Quote</h1>
 <div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="500"><br>
 </div>
